@@ -1,4 +1,4 @@
-# ~Az:Net//CRAFT  
+# ~Az:Net//CRAFT ![Icon](https://github.com/Az-Neter/AzNet-CRAFT/blob/main/Logos/server-icon.png)
 ### A 1.7.10 Magi-Tech Modpack  
 by Az Neter  
 
